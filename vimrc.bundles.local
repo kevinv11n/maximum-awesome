@@ -1,5 +1,1 @@
-Bundle "maksimr/vim-jsbeautify"
-Bundle "ervandew/supertab"
-Bundle "kien/rainbow_parentheses.vim"
-Bundle "tpope/vim-sensible"
 
