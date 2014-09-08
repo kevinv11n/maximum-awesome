@@ -41,5 +41,6 @@ Bundle 'vim-scripts/matchit.zip'
 Bundle "maksimr/vim-jsbeautify"
 Bundle "ervandew/supertab"
 Bundle "tpope/vim-sensible"
-Bundle 'oblitum/rainbow'
+Bundle "oblitum/rainbow"
+Bundle "terryma/vim-multiple-cursors"
 
